@@ -29,8 +29,8 @@ function logMsg($message)
 }
 
 
-logMsg('############### LOG START ###############');
-logMsg('Meu primeiro log');
-logMsg('Mais uma linha');
-logMsg('A ultima linha');
-logMsg('############### LOG END ###############');
+// logMsg('############### LOG START ###############');
+// logMsg('My first log');
+// logMsg('One more line');
+// logMsg('Last line');
+// logMsg('############### LOG END ###############');
